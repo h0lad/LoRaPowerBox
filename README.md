@@ -5,7 +5,7 @@
 
 This PCB integrates a Heltec HT-CT62 (ESP32-C3 + SX1262), a TI BQ25628E wide-range Li-ion charger and a TI TPS631000 buck-boost converter providing a stable 3.3V rail at up to 1.5A The TI BQ25628E is capable of handling highly dynamic sources like solar cells and wind generators.
 
-You can see this project as a successor of the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNode) project which worked perfectly fine - but showed several limitations. 
+You can see this project as a successor of the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNode) project which was a reliable work horse - but showed several limitations. 
 
 ## Features
 
