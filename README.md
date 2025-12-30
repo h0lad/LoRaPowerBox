@@ -9,7 +9,7 @@ You can see this project as a successor of the [SolarMeshtasticNode](https://git
 
 ## Features
 
-- 3.9-18V solar input range, with survival up to 26 V  
+- 3.9-18V input range, with survival up to 26 V  
 - Up to 3.2A input current (IBUS)  
 - Up to 2A battery charge current (IBAT)  
 - Up to 3.5A system output current (ISW), limited to 1.5A @ 3.3V by the TPS631000  
