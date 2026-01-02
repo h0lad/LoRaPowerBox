@@ -4087,6 +4087,16 @@
 		)
 		(uuid "ab53fb8c-94a2-4247-b039-1a9a00fc8118")
 	)
+	(text "Assume \n103AT NTC"
+		(exclude_from_sim no)
+		(at 170.18 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ba698421-ba95-42ef-8ad7-bbec66bb7af3")
+	)
 	(text "Battery\n"
 		(exclude_from_sim no)
 		(at 202.692 158.496 0)
@@ -6983,10 +6993,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "015c0ae9-7c59-43b2-8075-10fc05ae9b49")
 		(property "Reference" "R7"
-			(at 166.37 161.2899 0)
+			(at 165.1 161.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6994,8 +7003,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 166.37 163.8299 0)
+		(property "Value" "5.23k"
+			(at 165.1 164.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11607,10 +11616,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a2cb66e1-14ec-49f2-a4ce-76b11bfa4cd1")
 		(property "Reference" "R8"
-			(at 166.37 171.4499 0)
+			(at 165.354 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11618,8 +11626,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 166.37 173.9899 0)
+		(property "Value" "30.1k"
+			(at 165.354 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)

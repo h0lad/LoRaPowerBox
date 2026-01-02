@@ -11372,7 +11372,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.23k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13981,7 +13981,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "30.1k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
