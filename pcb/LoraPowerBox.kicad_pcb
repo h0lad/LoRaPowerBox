@@ -13570,14 +13570,13 @@
 		(descr "RYK0018A")
 		(tags "Integrated Circuit")
 		(property "Reference" "U2"
-			(at 3.845 -1.67 90)
+			(at 2.50625 0.15 180)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b0b015dc-be59-45a0-8ea9-cbfe9a13666f")
+			(uuid "9b7ff1c5-df74-4ca5-b20f-6a48458073ea")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -13585,7 +13584,7 @@
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "47c57850-2dcd-490a-9913-33ba5ab65704")
+			(uuid "a026b3f0-a2e8-4ebd-b80e-b9566c17bf33")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13597,7 +13596,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ccdc6a3-ea3a-47f5-88eb-717e2e18af8c")
+			(uuid "9bc03394-b172-4eff-b1b4-fb50ba8005fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13609,7 +13608,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0f9f5ad0-f42c-4cdd-aeff-17ce3369b019")
+			(uuid "ded7fb84-8143-4e3e-b81e-a37410ac1aa1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14874,7 +14873,7 @@
 		)
 	)
 	(gr_text "RST"
-		(at 144.03 76.37125 0)
+		(at 144.2 76.46 0)
 		(layer "F.SilkS")
 		(uuid "21f88774-74fe-4a6f-ada3-751ba31f0d4d")
 		(effects
