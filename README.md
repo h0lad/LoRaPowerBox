@@ -30,12 +30,12 @@ The size of the PCB is 60mm x 51mm and is planned (= screw hole fits into housin
 
 Do not use the transparent version: it will heat up.
 
+![LoRaPowerBox](doc/LoraPowerBox_case.jpg)
+
+
 ## Hardware Verification
 
 PCB and components for v0.0.1 are ordered. Results will be available in 3-4 weeks.
-
-
-
 
 ## Warning if you are using LoRa 
 
