@@ -26,7 +26,7 @@ Compared to the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNo
 
 ## Physical Outlines
 
-The size of the PCB is 60mm x 51mm and is planned around following [Box (120x90x70)](https://de.aliexpress.com/item/1005005859929902.html). 
+The size of the PCB is 60mm x 51mm and is planned (= screw hole fits into housing) around following [Box (120x90x70)](https://de.aliexpress.com/item/1005005859929902.html). 
 
 Do not use the transparent version: it will heat up.
 
