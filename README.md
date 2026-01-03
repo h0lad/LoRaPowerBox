@@ -30,6 +30,8 @@ The size of the PCB is 60mm x 51mm and is planned (= screw hole fits into housin
 
 Do not use the transparent version: it will heat up.
 
+**Simulation of the EdgeCut with a 1:1 print**
+
 ![LoRaPowerBox](doc/LoraPowerBox_case.jpg)
 
 
