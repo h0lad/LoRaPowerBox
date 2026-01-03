@@ -21,7 +21,7 @@ You can see this project as a successor of the [SolarMeshtasticNode](https://git
 Compared to the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNode):  
 - No voltage dividers required - all measurements available via I²C from the charge controller
 - No LED driver transistors needed
-- Buck-boost architecture replaces inefficient LDO regulation
+- Buck-architecture replaces inefficient LDO regulation
 - Significantly improved access to interfaces
 
 ## Physical Outlines
