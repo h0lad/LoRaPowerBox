@@ -14992,8 +14992,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "PWR IN\nMax. 26V DC!"
-		(at 125.79 89.14 0)
+	(gr_text "PWR IN\nMax. 18V DC!\n"
+		(at 125.5 89.19 0)
 		(layer "F.SilkS")
 		(uuid "54706af4-33cf-4efc-b002-8eafdfaa5f4e")
 		(effects
