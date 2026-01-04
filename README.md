@@ -17,7 +17,7 @@ This PCB integrates a Heltec HT-CT62 (ESP32-C3 + SX1262), a TI BQ25628E wide-ran
 - Full protection circuitry, allowing operation even with unprotected LiPo cells  
 
 You can see this project as a successor of the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNode) project which was a reliable work horse - but showed several limitations. 
-Improvements compared to the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNode):  
+Improvements:  
 
 - No voltage dividers required - all measurements available via I²C from the charge controller
 - No LED driver transistors needed
