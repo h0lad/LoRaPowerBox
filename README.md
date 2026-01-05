@@ -15,7 +15,7 @@ This PCB integrates a Heltec HT-CT62 (ESP32-C3 + SX1262), a TI BQ25628E wide-ran
 - Integrated ADC provides full voltage / current telemetry via I²C  
 - Pseudo-MPPT (VINDPM + IINDPM) for improved energy harvesting from solar/wind/etc. sources
 - Full protection circuitry, allowing operation even with unprotected LiPo cells  
-- Reset IC (DI APX803L05) constantly monitors the battery voltage and switches off the 3.3V rail if it reaches a critical level (variants available from 2.9-3.4V and more - but keeps the charger always alive
+- Reset IC (DI APX803L05) constantly monitors the battery voltage and switches off the 3.3V rail if it reaches a critical level - but keeps the charger always alive
 
 You can see this project as a successor of the [SolarMeshtasticNode](https://github.com/h0lad/SolarMeshtasticNode) project which was a reliable work horse - but showed several limitations. 
 Improvements:  
