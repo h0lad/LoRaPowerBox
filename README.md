@@ -39,6 +39,8 @@ Do not use the transparent version: it will heat up.
 
 PCB and components for v0.0.1 are ordered. Results will be available in 3-4 weeks.
 
+This Schematic/Board is **not** yet tested. Please wait before wildly ordering stuff to copy it!
+
 ## Warning if you are using LoRa 
 
 ![Heltec HT-CT62](doc/ht-ct62.jpg)
