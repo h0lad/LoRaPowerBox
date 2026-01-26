@@ -35,12 +35,18 @@ Do not use the transparent version: it will heat up.
 
 ![LoRaPowerBox](doc/LoraPowerBox_case.jpg)
 
-
 ## Hardware Verification
 
 PCB and components for v0.0.1 are ordered. Results will be available in 3-4 weeks.
 
 This Schematic/Board is **not** yet tested. Please wait before wildly ordering stuff to copy it!
+
+## FAQ
+
+#### Why are you using a ESP32C3? 
+
+I also do a lot of data gathering into TSDBs via Wifi. The Espressif has the most comfortable stack for doing this.
+
 
 ## Warning if you are using LoRa 
 
