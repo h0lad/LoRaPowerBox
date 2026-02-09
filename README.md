@@ -33,13 +33,20 @@ Do not use the transparent version: it will heat up.
 
 **Simulation of the EdgeCut with a 1:1 print**
 
-![LoRaPowerBox](doc/LoraPowerBox_case.jpg)
+![LoRaPowerBox](doc/LoRaPowerBox_case.jpg)
 
-## Hardware Verification
+## Hardware Verification v0.3
 
-PCB and components for v0.0.1 are ordered. Results will be available in 3-4 weeks.
 
-This Schematic/Board is **not** yet tested. Please wait before wildly ordering stuff to copy it!
+![LoRaPowerBox](doc/LoRaPowerBox_test.jpg)
+
+✅ Charging IC charges LiPo and blinks LED according to status
+
+✅ Buck-Boost DCDC creates 3.3V
+
+✅ Heating the thermistor forces throtteling of charging current
+
+✅ Reset IC disables 3.3V using EN pin from DCDC if VBat falls below 3.2V
 
 ## FAQ
 
