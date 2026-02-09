@@ -35,7 +35,7 @@ Do not use the transparent version: it will heat up.
 
 ![LoRaPowerBox](doc/LoRaPowerBox_case.jpg)
 
-## Hardware Verification v0.3
+## Hardware Verification v0.2
 
 
 ![LoRaPowerBox](doc/LoRaPowerBox_test.jpg)
