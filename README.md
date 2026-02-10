@@ -55,7 +55,7 @@ Do not use the transparent version: it will heat up.
 I also do a lot of data gathering into TSDBs via Wifi. The Espressif has the most comfortable stack for doing this.
 
 
-## Warning if you are using LoRa 
+#### What pins does the LoRa module consume?
 
 ![Heltec HT-CT62](doc/ht-ct62.jpg)
 
