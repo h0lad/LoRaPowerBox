@@ -4419,7 +4419,7 @@
 	)
 	(text "ILIM=1500Ohm -> max. ~1.85A charging current after reset\nCan be overwritte via I2C"
 		(exclude_from_sim no)
-		(at 131.064 177.8 0)
+		(at 131.826 192.532 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4953,16 +4953,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 156.21) (xy 104.14 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0da92a3c-9f96-4b58-b3b8-862a414e2a68")
-	)
-	(wire
-		(pts
 			(xy 146.05 36.83) (xy 148.59 36.83)
 		)
 		(stroke
@@ -5033,16 +5023,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 156.21) (xy 97.79 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18020bac-fc1c-476d-a0c0-0e0aca66cf4c")
-	)
-	(wire
-		(pts
 			(xy 163.83 133.35) (xy 151.13 133.35)
 		)
 		(stroke
@@ -5050,6 +5030,16 @@
 			(type default)
 		)
 		(uuid "187351db-17ef-43f2-91e1-034f776b05c6")
+	)
+	(wire
+		(pts
+			(xy 97.79 165.1) (xy 97.79 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18f3f623-83af-4271-9da7-42b7394011a8")
 	)
 	(wire
 		(pts
@@ -5233,16 +5223,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 156.21) (xy 104.14 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "368e593a-16d7-4f2a-b217-62178f329da2")
-	)
-	(wire
-		(pts
 			(xy 252.73 138.43) (xy 252.73 139.7)
 		)
 		(stroke
@@ -5293,16 +5273,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 146.05) (xy 100.33 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41e7343c-c63d-4173-8774-ba80aa21d776")
-	)
-	(wire
-		(pts
 			(xy 86.36 256.54) (xy 87.63 256.54)
 		)
 		(stroke
@@ -5340,6 +5310,16 @@
 			(type default)
 		)
 		(uuid "45b39e99-1f1e-443a-9621-80ab275a61ca")
+	)
+	(wire
+		(pts
+			(xy 104.14 163.83) (xy 102.87 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47fbe2ab-ab57-4f3f-8d91-614995888c2e")
 	)
 	(wire
 		(pts
@@ -5400,6 +5380,16 @@
 			(type default)
 		)
 		(uuid "4e514866-79a9-45b2-8ff6-bb45c3b24ae7")
+	)
+	(wire
+		(pts
+			(xy 99.06 165.1) (xy 97.79 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f851a0e-da70-4d1d-a0ad-b2621fc2cf2d")
 	)
 	(wire
 		(pts
@@ -5723,16 +5713,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 146.05) (xy 100.33 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73e86fd0-2655-496f-889a-6d6c3e3dada5")
-	)
-	(wire
-		(pts
 			(xy 92.71 140.97) (xy 92.71 143.51)
 		)
 		(stroke
@@ -5983,6 +5963,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 148.59) (xy 102.87 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a7598d7-4ac3-4a49-9ce4-fbd253abddf6")
+	)
+	(wire
+		(pts
 			(xy 214.63 139.7) (xy 214.63 151.13)
 		)
 		(stroke
@@ -6010,6 +6000,16 @@
 			(type default)
 		)
 		(uuid "8d9983f9-9cb6-4769-98aa-420e3845d574")
+	)
+	(wire
+		(pts
+			(xy 102.87 163.83) (xy 102.87 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dc5a09e-7761-40a0-b768-9b4df5349a45")
 	)
 	(wire
 		(pts
@@ -6253,6 +6253,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 146.05) (xy 99.06 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5927758-e26a-4f7c-bacb-2f2d5bd70d86")
+	)
+	(wire
+		(pts
 			(xy 147.32 127) (xy 157.48 127)
 		)
 		(stroke
@@ -6423,16 +6433,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 156.21) (xy 97.79 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "baca8a27-f4fa-430f-9eb7-5c5b739965aa")
-	)
-	(wire
-		(pts
 			(xy 224.79 114.3) (xy 224.79 115.57)
 		)
 		(stroke
@@ -6480,6 +6480,16 @@
 			(type default)
 		)
 		(uuid "c20ad300-0f5b-410c-886d-968ab3bcf887")
+	)
+	(wire
+		(pts
+			(xy 99.06 161.29) (xy 99.06 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2d19021-18fb-48ed-86d0-1eb08de1e926")
 	)
 	(wire
 		(pts
@@ -6560,6 +6570,16 @@
 			(type default)
 		)
 		(uuid "c8073cfe-d08a-4e5e-b9dc-1841e89947ab")
+	)
+	(wire
+		(pts
+			(xy 99.06 146.05) (xy 120.65 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c83898d5-c631-4e1a-9e81-c73196ef07b6")
 	)
 	(wire
 		(pts
@@ -6853,23 +6873,13 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 166.37) (xy 104.14 168.91)
+			(xy 104.14 176.53) (xy 104.14 179.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e6daf5d6-7a17-4403-a72f-9d40c98abde7")
-	)
-	(wire
-		(pts
-			(xy 102.87 148.59) (xy 102.87 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e84f7568-fe9a-4eb1-b065-ce9a11636e86")
 	)
 	(wire
 		(pts
@@ -6883,7 +6893,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 166.37) (xy 97.79 168.91)
+			(xy 97.79 176.53) (xy 97.79 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6900,6 +6910,16 @@
 			(type default)
 		)
 		(uuid "e9f5c448-d74c-43cc-8a87-0c93b5264dea")
+	)
+	(wire
+		(pts
+			(xy 104.14 168.91) (xy 104.14 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea3e52cf-c7e5-4b89-88a8-0fecfb9559a3")
 	)
 	(wire
 		(pts
@@ -7112,7 +7132,7 @@
 		(uuid "0c67de12-19d1-4adf-802c-5fec69bcc412")
 	)
 	(label "SYS"
-		(at 97.79 168.91 270)
+		(at 97.79 179.07 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7272,7 +7292,7 @@
 		(uuid "51aa054f-5a0e-4fc4-93b9-b940cf7c9a2b")
 	)
 	(label "SYS"
-		(at 104.14 168.91 270)
+		(at 104.14 179.07 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9463,6 +9483,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 102.87 157.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "28d3be3e-c92f-46a1-bba4-03ccb73b4a17")
+		(property "Reference" "R15"
+			(at 105.41 156.464 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300"
+			(at 102.87 157.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 101.092 157.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 102.87 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "13817f28-49f9-498e-b5cc-2718314c5ac1")
+		)
+		(pin "2"
+			(uuid "1673d10b-8737-42a6-96ff-16d84a186045")
+		)
+		(instances
+			(project "LoraPowerBox"
+				(path "/25fca8d1-9891-46d7-9368-b9fbe57cc258"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 182.88 129.54 180)
 		(unit 1)
@@ -9864,7 +9963,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 104.14 162.56 270)
+		(at 104.14 172.72 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9874,7 +9973,7 @@
 		(dnp no)
 		(uuid "32434299-97a3-493d-b550-568bb35d99cc")
 		(property "Reference" "D3"
-			(at 104.648 160.274 90)
+			(at 104.648 170.434 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9885,7 +9984,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 105.41 166.116 0)
+			(at 105.41 176.276 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9895,7 +9994,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 104.14 162.56 0)
+			(at 104.14 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9906,7 +10005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 162.56 0)
+			(at 104.14 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9917,7 +10016,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 104.14 162.56 0)
+			(at 104.14 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9928,7 +10027,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 104.14 162.56 0)
+			(at 104.14 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11218,7 +11317,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 97.79 162.56 270)
+		(at 97.79 172.72 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11228,7 +11327,7 @@
 		(dnp no)
 		(uuid "58e8c610-6950-4866-a73b-3cb0859e35e4")
 		(property "Reference" "D2"
-			(at 98.044 160.782 90)
+			(at 98.044 170.942 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11239,7 +11338,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 99.06 166.624 0)
+			(at 99.06 176.784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11249,7 +11348,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 97.79 162.56 0)
+			(at 97.79 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11260,7 +11359,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 162.56 0)
+			(at 97.79 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11271,7 +11370,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 97.79 162.56 0)
+			(at 97.79 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11282,7 +11381,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 97.79 162.56 0)
+			(at 97.79 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15756,6 +15855,85 @@
 			(project "LoraPowerBox"
 				(path "/25fca8d1-9891-46d7-9368-b9fbe57cc258"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 99.06 157.48 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ed35b5ff-2415-4f72-b7a2-4b99fed7d9e8")
+		(property "Reference" "R14"
+			(at 96.52 158.496 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300"
+			(at 99.06 157.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 100.838 157.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 99.06 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c59376ba-008a-4cc5-87b0-7e6cb4ef4488")
+		)
+		(pin "2"
+			(uuid "8213e2e7-112e-4c10-8533-afd2f19e330f")
+		)
+		(instances
+			(project "LoraPowerBox"
+				(path "/25fca8d1-9891-46d7-9368-b9fbe57cc258"
+					(reference "R14")
 					(unit 1)
 				)
 			)
